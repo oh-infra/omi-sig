@@ -1,6 +1,6 @@
 # Oh My Infra Special Interest Group
 
-Oh My Infra Special Interest Group（OMI SIG）是[格维开源社区](https://github.com/gevico)和[华科开放原子开源俱乐部](https://github.com/hust-open-atom-club)共同发起的 Oh My Infra 特别兴趣小组。
+Oh My Infra Special Interest Group（OMI SIG）是[格维开源社区](https://gevico.online/?lang=zh)和[华科开放原子开源俱乐部](https://github.com/hust-open-atom-club)共同发起的 Oh My Infra 特别兴趣小组。
 
 Oh My Infra 起源于 QEMU Camp。在持续的训练营实践中，我们逐步从 QEMU、模拟器与虚拟化技术出发，将学习和实践范围延伸到操作系统、编译器、云原生、AI Infra 等更广泛的基础软件与系统基础设施方向。
 
